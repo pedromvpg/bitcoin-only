@@ -230,6 +230,22 @@ export default {
 							link: 'https://www.amazon.com//dp/1733219609'
 						}
 					]
+				},
+				{
+					title: 'Bitcoin – Alpha v0.01',
+					synopsis: 'The original 2009 Bitcoin source code.',
+					authors: [
+						{
+							name: 'PirateHash',
+							link: 'https://twitter.com/piratehash'
+						},
+					],
+					purchaseLinks: [
+						{
+							title: 'Direct',
+							link: 'https://piratehash.com/product/bitcoin-alpha-v0-01/'
+						}
+					]
 				}
 			]
 
